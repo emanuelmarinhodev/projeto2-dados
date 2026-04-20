@@ -48,4 +48,4 @@ Utilizando funções de percentis do **NumPy**, identificamos o comportamento do
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
+   git clone [https://github.com/emanuelmarinhodev/projeto2-dados.git](https://github.com/emanuelmarinhodev/projeto2-dados.git)
