@@ -44,8 +44,3 @@ Utilizando funções de percentis do **NumPy**, identificamos o comportamento do
 * **Preço Unitário:** A mediana (50%) dos produtos está em **R$ 13,09**, indicando um mix de produtos acessíveis.
 * **Volume por Pedido:** 75% dos pedidos (Q3) contêm até **24 unidades** de um mesmo item.
 
-## 🚀 Como Executar
-
-1. Clone o repositório:
-   ```bash
-   git clone [https://github.com/emanuelmarinhodev/projeto2-dados.git](https://github.com/emanuelmarinhodev/projeto2-dados.git)
